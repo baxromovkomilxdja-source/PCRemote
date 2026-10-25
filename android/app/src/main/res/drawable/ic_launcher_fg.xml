@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monitor va touchpad ko'rinishidagi oddiy belgi -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#3D8BFD"
+        android:pathData="M30,34h48a4,4 0,0 1,4 4v26a4,4 0,0 1,-4 4H30a4,4 0,0 1,-4 -4V38a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="#12161E"
+        android:pathData="M31,39h46v24H31z" />
+    <path android:fillColor="#3D8BFD"
+        android:pathData="M46,68h16v5H46zM40,73h28v3H40z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M50,44l0,13l3.5,-3.5l2.5,5l2,-1l-2.5,-5l5,0z" />
+</vector>
